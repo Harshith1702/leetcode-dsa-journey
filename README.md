@@ -55,4 +55,4 @@ DynamicProgramming/
 > This repository reflects my learning journey.  
 > Quality and consistency matter more than problem count.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Harshith1702/<leetcode-dsa-journey>)
+![GitHub last commit](https://img.shields.io/github/last-commit/Harshith1702/leetcode-dsa-journey)
