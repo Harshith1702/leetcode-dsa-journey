@@ -21,12 +21,11 @@ The focus is on understanding patterns, writing clean code, and improving time a
 ## 💻 Languages Used
 - Java (primary)
 - C
-- Python
 
 ---
 
 ## 📈 Progress
-- Problems solved on LeetCode: **145+**
+- Problems solved on LeetCode: **140+**
 - Solutions in this repository are added after accepted submissions
 - Older solutions may be refined as my understanding improves
 
@@ -47,10 +46,13 @@ DynamicProgramming/
 ---
 
 ## 🔗 Profiles
-- LeetCode: https://leetcode.com/your-username
+- LeetCode: https://leetcode.com/Harshith-2007
 - GitHub: https://github.com/Harshith1702
+- LinkedIn: https://www.linkedin.com/in/harshith-p-17022007v/
 
 ---
 
 > This repository reflects my learning journey.  
 > Quality and consistency matter more than problem count.
+
+![GitHub last commit](https://img.shields.io/github/last-commit/Harshith1702/<leetcode-dsa-journey>)
