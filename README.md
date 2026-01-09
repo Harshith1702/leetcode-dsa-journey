@@ -25,7 +25,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 ---
 
 ## 📈 Progress
-- Problems solved on LeetCode: **140+**
+- Problems solved on LeetCode: **150+**
 - Solutions in this repository are added after accepted submissions
 - Older solutions may be refined as my understanding improves
 
