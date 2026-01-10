@@ -1,7 +1,7 @@
 class Solution {
     public int minimumDeleteSum(String s1, String s2) {
         int n=s1.length(),m=s2.length();
-        int[] dp=new int[n+1];
+        int[] dp=new int[m+1];
         for(int i=n-1;i>=0;i--){
             int prev=0;
             for(int j=m-1;j>=0;j--){
