@@ -3,11 +3,12 @@ class Solution {
         if(num==0)  return "0";
         boolean sign=num<0;
         num=Math.abs(num);
-        String res="";
+        StringBuilder res=new StringBuilder();
         while(num>0){
-            res=(num%7)+res;
+            res.append(num%7);
             num/=7;
         }
-        return sign?  "-" + res : res;
+        if(sign)    res.append("-");
+        return res.reverse().toString();
     }
 }
