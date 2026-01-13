@@ -1,9 +1,7 @@
 class Solution {
     public int earliestTime(int[][] tasks) {
-        int tym = Integer.MAX_VALUE;
-        for(int[] i: tasks){
-            tym = Math.min(tym, i[1] + i[0]);
-        }
-        return tym;
+        int min=Integer.MAX_VALUE;
+        for(int[] t:tasks)  min=Math.min(min,t[0]+t[1]);
+        return min; 
     }
 }
