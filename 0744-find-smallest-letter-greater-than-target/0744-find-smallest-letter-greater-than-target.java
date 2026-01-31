@@ -1,7 +1,7 @@
 class Solution {
     public char nextGreatestLetter(char[] letters, char target) {
-        for(char c:letters){
-            if(c>target)    return c;
+        for(char i:letters){
+            if(i>target)    return i;
         }
         return letters[0];
     }
