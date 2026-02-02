@@ -56,3 +56,19 @@ DynamicProgramming/
 > Quality and consistency matter more than problem count.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Harshith1702/leetcode-dsa-journey)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Harshith1702/leetcode-dsa-journey/tree/master/0078-subsets) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Harshith1702/leetcode-dsa-journey/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Harshith1702/leetcode-dsa-journey/tree/master/0078-subsets) |
+<!---LeetCode Topics End-->
