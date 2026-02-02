@@ -63,12 +63,15 @@ DynamicProgramming/
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Harshith1702/leetcode-dsa-journey/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/master/0090-subsets-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Harshith1702/leetcode-dsa-journey/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Harshith1702/leetcode-dsa-journey/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
