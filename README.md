@@ -11,10 +11,8 @@ The focus is on understanding patterns, writing clean code, and improving time a
 - Hashing
 - Two Pointers / Sliding Window
 - Binary Search
-- Linked List
 - Stack & Queue
 - Trees
-- Dynamic Programming
 
 ---
 
@@ -25,7 +23,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 ---
 
 ## 📈 Progress
-- Problems solved on LeetCode: **200+**
+- Problems solved on LeetCode: **250+**
 - Solutions in this repository are added after accepted submissions
 - Older solutions may be refined as my understanding improves
 
@@ -39,7 +37,6 @@ Each folder represents a core topic, and files inside are named after the proble
 Arrays/
 TwoPointers/
 BinarySearch/
-DynamicProgramming/
 ...
 ```
 
