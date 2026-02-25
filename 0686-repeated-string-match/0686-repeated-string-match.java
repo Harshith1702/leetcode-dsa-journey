@@ -1,14 +1,14 @@
 class Solution {
     public int repeatedStringMatch(String a, String b) {
-        String s=a;
+        StringBuilder s=new StringBuilder(a);
         int c=1;
         while(s.length()<b.length()){
-            s+=a;
+            s.append(a);
             c++;
         }
-        if(s.contains(b))   return c;
-        s+=a;
-        if(s.contains(b))   return c+1;
+        if(s.indexOf(b)!=-1)   return c;
+        s.append(a);
+        if(s.indexOf(b)!=-1)   return c+1;
         return -1;
     }
 }
