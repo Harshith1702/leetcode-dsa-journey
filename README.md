@@ -62,6 +62,7 @@ BinarySearch/
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +72,7 @@ BinarySearch/
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,4 +85,5 @@ BinarySearch/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 <!---LeetCode Topics End-->
