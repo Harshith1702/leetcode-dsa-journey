@@ -53,37 +53,3 @@ BinarySearch/
 > Quality and consistency matter more than problem count.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Harshith1702/leetcode-dsa-journey)
-
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
-| [1582-special-positions-in-a-binary-matrix](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
-| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
-## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
-| [1582-special-positions-in-a-binary-matrix](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
-| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
-## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
-## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
-| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
-<!---LeetCode Topics End-->
