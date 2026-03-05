@@ -53,20 +53,3 @@ BinarySearch/
 > Quality and consistency matter more than problem count.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Harshith1702/leetcode-dsa-journey)
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
-| [2957-remove-adjacent-almost-equal-characters](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2957-remove-adjacent-almost-equal-characters/) | Medium |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2957-remove-adjacent-almost-equal-characters](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2957-remove-adjacent-almost-equal-characters/) | Medium |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2957-remove-adjacent-almost-equal-characters](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2957-remove-adjacent-almost-equal-characters/) | Medium |
-<!---LeetCode Topics End-->
