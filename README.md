@@ -53,3 +53,11 @@ BinarySearch/
 > Quality and consistency matter more than problem count.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Harshith1702/leetcode-dsa-journey)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+<!---LeetCode Topics End-->
