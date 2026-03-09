@@ -53,3 +53,23 @@ BinarySearch/
 > Quality and consistency matter more than problem count.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Harshith1702/leetcode-dsa-journey)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1386-cinema-seat-allocation/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1386-cinema-seat-allocation/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1386-cinema-seat-allocation/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1386-cinema-seat-allocation/) | Medium |
+<!---LeetCode Topics End-->
