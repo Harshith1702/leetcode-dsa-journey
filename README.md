@@ -59,12 +59,14 @@ BinarySearch/
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3097-shortest-subarray-with-or-at-least-k-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1386-cinema-seat-allocation/) | Medium |
 ## Greedy
@@ -95,6 +97,7 @@ BinarySearch/
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -107,6 +110,7 @@ BinarySearch/
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
