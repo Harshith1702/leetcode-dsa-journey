@@ -59,11 +59,13 @@ BinarySearch/
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3097-shortest-subarray-with-or-at-least-k-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1386-cinema-seat-allocation/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -86,4 +88,28 @@ BinarySearch/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3097-shortest-subarray-with-or-at-least-k-ii/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
