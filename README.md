@@ -61,6 +61,7 @@ BinarySearch/
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0881-boats-to-save-people](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0881-boats-to-save-people/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3097-shortest-subarray-with-or-at-least-k-ii/) | Medium |
 ## Hash Table
@@ -72,6 +73,7 @@ BinarySearch/
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0881-boats-to-save-people/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1386-cinema-seat-allocation/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -100,6 +102,7 @@ BinarySearch/
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0881-boats-to-save-people](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0881-boats-to-save-people/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,4 +120,8 @@ BinarySearch/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0881-boats-to-save-people/) | Medium |
 <!---LeetCode Topics End-->
