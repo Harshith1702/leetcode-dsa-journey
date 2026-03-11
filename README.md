@@ -76,6 +76,7 @@ BinarySearch/
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1009-complement-of-base-10-integer](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3097-shortest-subarray-with-or-at-least-k-ii/) | Medium |
 ## Math
