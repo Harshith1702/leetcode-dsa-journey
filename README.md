@@ -53,3 +53,23 @@ BinarySearch/
 > Quality and consistency matter more than problem count.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Harshith1702/leetcode-dsa-journey)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0567-permutation-in-string](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0567-permutation-in-string/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0567-permutation-in-string](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0567-permutation-in-string/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0567-permutation-in-string](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0567-permutation-in-string/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0567-permutation-in-string](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0567-permutation-in-string/) | Medium |
+<!---LeetCode Topics End-->
