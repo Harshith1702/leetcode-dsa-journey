@@ -6,13 +6,13 @@ class Solution {
         rev(nums,0,k-1);
         rev(nums,k,n-1);
     }
-    void rev(int[] a,int low,int high){
-        while(low<high){
-            int x=a[low];
-            a[low]=a[high];
-            a[high]=x;
-            low++;
-            high--;
+    private static void rev(int[] a,int i,int j){
+        while(i<j){
+            int temp=a[i];
+            a[i]=a[j];
+            a[j]=temp;
+            i++;
+            j--;
         }
     }
 }
