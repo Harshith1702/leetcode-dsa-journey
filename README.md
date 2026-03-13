@@ -64,6 +64,7 @@ BinarySearch/
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0189-rotate-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0567-permutation-in-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -75,4 +76,12 @@ BinarySearch/
 | ------- | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0567-permutation-in-string/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0189-rotate-array](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0189-rotate-array/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0189-rotate-array](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->
