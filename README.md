@@ -11,7 +11,6 @@ The focus is on understanding patterns, writing clean code, and improving time a
 - Hashing
 - Two Pointers / Sliding Window
 - Binary Search
-- Stack & Queue
 - Trees
 
 ---
