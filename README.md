@@ -23,7 +23,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 ---
 
 ## 📈 Progress
-- Problems solved on LeetCode: **250+**
+- Problems solved on LeetCode: **300+**
 - Solutions in this repository are added after accepted submissions
 - Older solutions may be refined as my understanding improves
 
@@ -53,15 +53,3 @@ BinarySearch/
 > Quality and consistency matter more than problem count.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Harshith1702/leetcode-dsa-journey)
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
-## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
-<!---LeetCode Topics End-->
