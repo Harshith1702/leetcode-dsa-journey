@@ -28,19 +28,6 @@ The focus is on understanding patterns, writing clean code, and improving time a
 
 ---
 
-## 📁 Structure
-Solutions are organized by topic to make patterns easier to identify and revise.  
-Each folder represents a core topic, and files inside are named after the problem.
-
-```
-Arrays/
-TwoPointers/
-BinarySearch/
-...
-```
-
----
-
 ## 🔗 Profiles
 - LeetCode: https://leetcode.com/Harshith-2007
 - GitHub: https://github.com/Harshith1702
