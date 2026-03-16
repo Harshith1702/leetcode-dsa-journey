@@ -51,5 +51,4 @@ BinarySearch/
 > This repository reflects my learning journey.  
 > Quality and consistency matter more than problem count.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Harshith1702/leetcode-dsa-journey)ngest-turbulent-subarray/) | Medium |
-<!---LeetCode Topics End-->
+![GitHub last commit](https://img.shields.io/github/last-commit/Harshith1702/leetcode-dsa-journey)
