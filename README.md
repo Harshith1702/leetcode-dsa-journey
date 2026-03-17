@@ -39,8 +39,3 @@ The focus is on understanding patterns, writing clean code, and improving time a
 > Quality and consistency matter more than problem count.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Harshith1702/leetcode-dsa-journey)
-## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2401-longest-nice-subarray](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2401-longest-nice-subarray/) | Medium |
-<!---LeetCode Topics End-->
