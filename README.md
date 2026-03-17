@@ -46,4 +46,13 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
+| [2401-longest-nice-subarray](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2401-longest-nice-subarray/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2401-longest-nice-subarray](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2401-longest-nice-subarray/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2401-longest-nice-subarray](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2401-longest-nice-subarray/) | Medium |
 <!---LeetCode Topics End-->
