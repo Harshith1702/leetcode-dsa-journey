@@ -39,3 +39,11 @@ The focus is on understanding patterns, writing clean code, and improving time a
 > Quality and consistency matter more than problem count.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Harshith1702/leetcode-dsa-journey)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
+<!---LeetCode Topics End-->
