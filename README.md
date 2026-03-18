@@ -39,19 +39,3 @@ The focus is on understanding patterns, writing clean code, and improving time a
 > Quality and consistency matter more than problem count.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Harshith1702/leetcode-dsa-journey)
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
-## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
-## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
-<!---LeetCode Topics End-->
