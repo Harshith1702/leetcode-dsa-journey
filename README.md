@@ -39,19 +39,3 @@ The focus is on understanding patterns, writing clean code, and improving time a
 > Quality and consistency matter more than problem count.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Harshith1702/leetcode-dsa-journey)
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
-## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
-## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
-<!---LeetCode Topics End-->
