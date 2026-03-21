@@ -39,3 +39,19 @@ The focus is on understanding patterns, writing clean code, and improving time a
 > Quality and consistency matter more than problem count.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Harshith1702/leetcode-dsa-journey)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3643-flip-square-submatrix-vertically](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3643-flip-square-submatrix-vertically](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3643-flip-square-submatrix-vertically](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+<!---LeetCode Topics End-->
