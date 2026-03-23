@@ -47,13 +47,19 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0322-coin-change/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0322-coin-change/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0322-coin-change/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 <!---LeetCode Topics End-->
