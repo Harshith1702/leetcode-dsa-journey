@@ -24,7 +24,7 @@ class Solution {
                 max[j] = Math.max(Math.max(a, b), Math.max(c, d));
             }
         }
-        if (max[n-1] < 0)    return -1;
-        return (int)(max[n-1] % 1000000007L);
+        if (max[m - 1] < 0)    return -1;
+        return (int)(max[m - 1] % 1000000007L);
     }
 }
