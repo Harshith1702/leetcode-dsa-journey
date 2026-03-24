@@ -45,6 +45,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0001-two-sum/) | Easy |
 | [0322-coin-change](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0322-coin-change/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -62,4 +63,8 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
