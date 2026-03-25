@@ -39,32 +39,3 @@ The focus is on understanding patterns, writing clean code, and improving time a
 > Quality and consistency matter more than problem count.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Harshith1702/leetcode-dsa-journey)
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0001-two-sum](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0001-two-sum/) | Easy |
-| [0322-coin-change](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0322-coin-change/) | Medium |
-| [0746-min-cost-climbing-stairs](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0746-min-cost-climbing-stairs/) | Easy |
-| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0322-coin-change](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0322-coin-change/) | Medium |
-| [0746-min-cost-climbing-stairs](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0746-min-cost-climbing-stairs/) | Easy |
-| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
-## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0322-coin-change](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0322-coin-change/) | Medium |
-## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0001-two-sum](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0001-two-sum/) | Easy |
-<!---LeetCode Topics End-->
