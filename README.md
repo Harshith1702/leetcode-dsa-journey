@@ -39,3 +39,15 @@ The focus is on understanding patterns, writing clean code, and improving time a
 > Quality and consistency matter more than problem count.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Harshith1702/leetcode-dsa-journey)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
+<!---LeetCode Topics End-->
