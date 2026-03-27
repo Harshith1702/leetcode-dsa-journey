@@ -45,9 +45,18 @@ The focus is on understanding patterns, writing clean code, and improving time a
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2401-longest-nice-subarray](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2401-longest-nice-subarray](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2401-longest-nice-subarray/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2401-longest-nice-subarray](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2401-longest-nice-subarray/) | Medium |
 <!---LeetCode Topics End-->
