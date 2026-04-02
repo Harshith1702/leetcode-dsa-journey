@@ -48,6 +48,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [2401-longest-nice-subarray](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,4 +78,5 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3693-climbing-stairs-ii/) | Medium |
 <!---LeetCode Topics End-->
