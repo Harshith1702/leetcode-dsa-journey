@@ -79,4 +79,12 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3693-climbing-stairs-ii/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0319-bulb-switcher/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0319-bulb-switcher/) | Medium |
 <!---LeetCode Topics End-->
