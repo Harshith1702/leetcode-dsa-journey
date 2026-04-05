@@ -45,6 +45,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0016-3sum-closest/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [2401-longest-nice-subarray](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
@@ -73,6 +74,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0016-3sum-closest/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -87,4 +89,8 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0319-bulb-switcher](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0319-bulb-switcher/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0016-3sum-closest](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0016-3sum-closest/) | Medium |
 <!---LeetCode Topics End-->
