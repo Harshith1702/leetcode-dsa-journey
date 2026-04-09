@@ -46,6 +46,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0016-3sum-closest/) | Medium |
+| [0046-permutations](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0046-permutations/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [2401-longest-nice-subarray](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
@@ -93,4 +94,8 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0016-3sum-closest/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
