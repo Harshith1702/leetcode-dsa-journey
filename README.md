@@ -45,9 +45,18 @@ The focus is on understanding patterns, writing clean code, and improving time a
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0047-permutations-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0047-permutations-ii/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0047-permutations-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0047-permutations-ii/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0047-permutations-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0047-permutations-ii/) | Medium |
 <!---LeetCode Topics End-->
