@@ -39,3 +39,15 @@ The focus is on understanding patterns, writing clean code, and improving time a
 > Quality and consistency matter more than problem count.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Harshith1702/leetcode-dsa-journey)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+<!---LeetCode Topics End-->
