@@ -67,4 +67,16 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0279-perfect-squares/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0279-perfect-squares/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0279-perfect-squares](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0279-perfect-squares/) | Medium |
 <!---LeetCode Topics End-->
