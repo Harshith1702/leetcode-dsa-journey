@@ -50,11 +50,13 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +73,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0279-perfect-squares/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
