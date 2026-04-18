@@ -74,6 +74,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0279-perfect-squares/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3783-mirror-distance-of-an-integer](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
