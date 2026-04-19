@@ -47,6 +47,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0047-permutations-ii/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -83,4 +84,12 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0279-perfect-squares/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 <!---LeetCode Topics End-->
