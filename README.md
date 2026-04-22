@@ -46,8 +46,17 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 <!---LeetCode Topics End-->
