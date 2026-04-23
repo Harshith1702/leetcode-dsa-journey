@@ -47,6 +47,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | ------- | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2615-sum-of-distances](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2615-sum-of-distances/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,4 +60,12 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2615-sum-of-distances](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2615-sum-of-distances/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2615-sum-of-distances](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2615-sum-of-distances/) | Medium |
 <!---LeetCode Topics End-->
