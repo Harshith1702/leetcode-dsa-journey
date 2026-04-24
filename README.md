@@ -45,6 +45,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0056-merge-intervals/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2615-sum-of-distances](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2615-sum-of-distances/) | Medium |
@@ -73,4 +74,8 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2833-furthest-point-from-origin](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2833-furthest-point-from-origin/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
