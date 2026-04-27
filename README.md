@@ -31,7 +31,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 ## 🔗 Profiles
 - LeetCode: https://leetcode.com/Harshith-2007
 - GitHub: https://github.com/Harshith1702
-- LinkedIn: https://www.linkedin.com/in/harshith-p-17022007v/
+- LinkedIn: https://www.linkedin.com/in/harshith-padakanti
 
 ---
 
@@ -39,44 +39,3 @@ The focus is on understanding patterns, writing clean code, and improving time a
 > Quality and consistency matter more than problem count.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Harshith1702/leetcode-dsa-journey)
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0056-merge-intervals](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0056-merge-intervals/) | Medium |
-| [0057-insert-interval](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0057-insert-interval/) | Medium |
-| [2078-two-furthest-houses-with-different-colors](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
-| [2452-words-within-two-edits-of-dictionary](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
-| [2615-sum-of-distances](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2615-sum-of-distances/) | Medium |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2078-two-furthest-houses-with-different-colors](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2452-words-within-two-edits-of-dictionary](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
-| [2833-furthest-point-from-origin](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2833-furthest-point-from-origin/) | Easy |
-## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2452-words-within-two-edits-of-dictionary](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2615-sum-of-distances](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2615-sum-of-distances/) | Medium |
-## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2615-sum-of-distances](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2615-sum-of-distances/) | Medium |
-## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2833-furthest-point-from-origin](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2833-furthest-point-from-origin/) | Easy |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0056-merge-intervals](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0056-merge-intervals/) | Medium |
-<!---LeetCode Topics End-->
