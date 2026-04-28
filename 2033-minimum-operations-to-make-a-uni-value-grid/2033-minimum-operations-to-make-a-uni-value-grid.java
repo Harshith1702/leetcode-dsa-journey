@@ -14,10 +14,10 @@ class Solution {
                 return -1;
         }
         Arrays.sort(a);
-        int avg = a[(n * m) / 2];
+        int median = a[(n * m) / 2];
         int c = 0;
         for (int i : a){
-            c += Math.abs(i - avg) / x;
+            c += Math.abs(i - median) / x;
         }
         return c;
     }
