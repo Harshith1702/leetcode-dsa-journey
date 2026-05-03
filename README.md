@@ -64,4 +64,12 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0788-rotated-digits](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0788-rotated-digits/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0796-rotate-string/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
