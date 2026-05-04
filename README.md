@@ -45,11 +45,13 @@ The focus is on understanding patterns, writing clean code, and improving time a
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0048-rotate-image/) | Medium |
 | [0057-insert-interval](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0057-insert-interval/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0048-rotate-image/) | Medium |
 | [0788-rotated-digits](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0788-rotated-digits/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 ## Sorting
@@ -59,6 +61,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0048-rotate-image/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
