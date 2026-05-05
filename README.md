@@ -47,6 +47,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0048-rotate-image/) | Medium |
 | [0057-insert-interval](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0057-insert-interval/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -75,4 +76,8 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0796-rotate-string/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 <!---LeetCode Topics End-->
