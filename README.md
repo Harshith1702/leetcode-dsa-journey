@@ -31,6 +31,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 ## 🔗 Profiles
 - LeetCode: https://leetcode.com/Harshith-2007
 - GitHub: https://github.com/Harshith1702
+- Portfolio: https://harshith-padakanti.vercel.app
 - LinkedIn: https://www.linkedin.com/in/harshith-padakanti
 
 ---
@@ -39,65 +40,3 @@ The focus is on understanding patterns, writing clean code, and improving time a
 > Quality and consistency matter more than problem count.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Harshith1702/leetcode-dsa-journey)
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0048-rotate-image](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0048-rotate-image/) | Medium |
-| [0057-insert-interval](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0057-insert-interval/) | Medium |
-| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
-| [0135-candy](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0135-candy/) | Hard |
-| [0877-stone-game](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0877-stone-game/) | Medium |
-| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
-| [2784-check-if-array-is-good](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2784-check-if-array-is-good/) | Easy |
-| [3660-jump-game-ix](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3660-jump-game-ix/) | Medium |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0048-rotate-image](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0048-rotate-image/) | Medium |
-| [0788-rotated-digits](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0788-rotated-digits/) | Medium |
-| [0877-stone-game](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0877-stone-game/) | Medium |
-| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
-| [2784-check-if-array-is-good](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2784-check-if-array-is-good/) | Easy |
-## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0048-rotate-image](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0048-rotate-image/) | Medium |
-| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0788-rotated-digits](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0788-rotated-digits/) | Medium |
-| [0877-stone-game](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0877-stone-game/) | Medium |
-| [3660-jump-game-ix](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3660-jump-game-ix/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0796-rotate-string](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0796-rotate-string/) | Easy |
-## String Matching
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0796-rotate-string](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0796-rotate-string/) | Easy |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0135-candy](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0135-candy/) | Hard |
-## Game Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0877-stone-game](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0877-stone-game/) | Medium |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2784-check-if-array-is-good](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2784-check-if-array-is-good/) | Easy |
-<!---LeetCode Topics End-->
