@@ -51,6 +51,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | [0135-candy](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0135-candy/) | Hard |
 | [0877-stone-game](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0877-stone-game/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3660-jump-game-ix](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3660-jump-game-ix/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -63,6 +64,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,4 +96,8 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0877-stone-game/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2784-check-if-array-is-good](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2784-check-if-array-is-good/) | Easy |
 <!---LeetCode Topics End-->
