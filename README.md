@@ -49,6 +49,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [2540-minimum-common-value](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2540-minimum-common-value/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -60,6 +61,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2540-minimum-common-value](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2540-minimum-common-value/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -69,4 +71,8 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2540-minimum-common-value](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2540-minimum-common-value/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 <!---LeetCode Topics End-->
