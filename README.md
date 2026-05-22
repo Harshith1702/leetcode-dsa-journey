@@ -46,6 +46,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [2540-minimum-common-value](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2540-minimum-common-value/) | Easy |
@@ -55,6 +56,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [2540-minimum-common-value](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2540-minimum-common-value/) | Easy |
