@@ -1,18 +1,15 @@
 class Solution {
     public int numberOfSpecialChars(String word) {
-        int[] a = new int[26];
-        int[] b = new int[26];
-        for (int i = 0;i < word.length(); i++) {
-            char ch = word.charAt(i);
-            if (ch >= 'a' && ch <= 'z')     a[ch - 'a'] = 1;
-            else if (ch >= 'A' && ch <= 'Z')    b[ch - 'A'] = 1;
+        Set<Character> hs = new HashSet<>();
+        for (char c : word.toCharArray()) {
+            hs.add(c);
         }
-        int c = 0;
-        for (int i = 0;i < 26; i++) {
-            if (a[i] == 1 && b[i] == 1) {
-                c++;
+        int cnt = 0;
+        for (char c = 'a';c <= 'z'; c++) {
+            if (hs.contains(c) && hs.contains(Character.toUpperCase(c))) {
+                cnt++;
             }
         }
-        return c;
+        return cnt;
     }
 }
