@@ -68,6 +68,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +85,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
