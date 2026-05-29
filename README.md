@@ -30,7 +30,6 @@ The focus is on understanding patterns, writing clean code, and improving time a
 
 ## 🔗 Profiles
 - LeetCode: https://leetcode.com/Harshith-2007
-- GitHub: https://github.com/Harshith1702
 - Portfolio: https://harshith-padakanti.vercel.app
 - LinkedIn: https://www.linkedin.com/in/harshith-padakanti
 
@@ -40,61 +39,3 @@ The focus is on understanding patterns, writing clean code, and improving time a
 > Quality and consistency matter more than problem count.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Harshith1702/leetcode-dsa-journey)
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0033-search-in-rotated-sorted-array](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
-| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
-| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
-| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
-| [2540-minimum-common-value](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2540-minimum-common-value/) | Easy |
-| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
-| [2784-check-if-array-is-good](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2784-check-if-array-is-good/) | Easy |
-| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
-| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0033-search-in-rotated-sorted-array](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
-| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
-| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
-| [2540-minimum-common-value](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2540-minimum-common-value/) | Easy |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2540-minimum-common-value](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2540-minimum-common-value/) | Easy |
-| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
-| [2784-check-if-array-is-good](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2784-check-if-array-is-good/) | Easy |
-| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
-| [3120-count-the-number-of-special-characters-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
-| [3121-count-the-number-of-special-characters-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2784-check-if-array-is-good](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2784-check-if-array-is-good/) | Easy |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2540-minimum-common-value](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2540-minimum-common-value/) | Easy |
-## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
-| [3120-count-the-number-of-special-characters-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
-| [3121-count-the-number-of-special-characters-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
-## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
-<!---LeetCode Topics End-->
