@@ -45,6 +45,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0658-find-k-closest-elements](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0658-find-k-closest-elements/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -60,6 +61,23 @@ The focus is on understanding patterns, writing clean code, and improving time a
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0658-find-k-closest-elements](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0658-find-k-closest-elements/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0658-find-k-closest-elements](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0658-find-k-closest-elements/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0658-find-k-closest-elements](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0658-find-k-closest-elements/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0658-find-k-closest-elements](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0658-find-k-closest-elements/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0658-find-k-closest-elements](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0658-find-k-closest-elements/) | Medium |
 <!---LeetCode Topics End-->
