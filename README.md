@@ -45,6 +45,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0658-find-k-closest-elements/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -75,9 +76,19 @@ The focus is on understanding patterns, writing clean code, and improving time a
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0658-find-k-closest-elements/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
