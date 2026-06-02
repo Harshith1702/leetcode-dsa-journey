@@ -50,6 +50,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | [2126-destroying-asteroids](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,20 +60,24 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | ------- | ------- |
 | [2126-destroying-asteroids](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0658-find-k-closest-elements/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0658-find-k-closest-elements/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0658-find-k-closest-elements/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
