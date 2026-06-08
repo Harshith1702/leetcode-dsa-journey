@@ -39,3 +39,19 @@ The focus is on understanding patterns, writing clean code, and improving time a
 > Quality and consistency matter more than problem count.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Harshith1702/leetcode-dsa-journey)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+<!---LeetCode Topics End-->
