@@ -46,6 +46,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,4 +55,8 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3689-maximum-total-subarray-value-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 <!---LeetCode Topics End-->
