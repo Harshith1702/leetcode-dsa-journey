@@ -56,6 +56,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -64,5 +65,6 @@ The focus is on understanding patterns, writing clean code, and improving time a
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3838-weighted-word-mapping/) | Easy |
 <!---LeetCode Topics End-->
