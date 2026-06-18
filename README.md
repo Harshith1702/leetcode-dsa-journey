@@ -39,3 +39,11 @@ The focus is on understanding patterns, writing clean code, and improving time a
 > Quality and consistency matter more than problem count.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Harshith1702/leetcode-dsa-journey)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+<!---LeetCode Topics End-->
