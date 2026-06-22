@@ -66,5 +66,14 @@ The focus is on understanding patterns, writing clean code, and improving time a
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1189-maximum-number-of-balloons/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1189-maximum-number-of-balloons/) | Easy |
 <!---LeetCode Topics End-->
