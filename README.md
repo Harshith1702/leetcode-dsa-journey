@@ -51,6 +51,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3975-filter-occupied-intervals](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3975-filter-occupied-intervals/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +64,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3975-filter-occupied-intervals](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3975-filter-occupied-intervals/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
