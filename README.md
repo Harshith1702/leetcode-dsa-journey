@@ -46,6 +46,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
