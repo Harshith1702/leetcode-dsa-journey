@@ -52,12 +52,14 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 | [3975-filter-occupied-intervals](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3975-filter-occupied-intervals/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +81,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,4 +91,9 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
 <!---LeetCode Topics End-->
