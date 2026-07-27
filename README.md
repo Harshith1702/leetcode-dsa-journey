@@ -50,6 +50,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
@@ -68,6 +69,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 | [3975-filter-occupied-intervals](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3975-filter-occupied-intervals/) | Medium |
@@ -96,4 +98,8 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3969-valid-subarrays-with-matching-sum-digits-i/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
