@@ -91,8 +91,14 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0155-min-stack/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0225-implement-stack-using-queues/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0155-min-stack/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
