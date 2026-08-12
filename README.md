@@ -45,6 +45,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -92,6 +93,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,4 +103,8 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 <!---LeetCode Topics End-->
