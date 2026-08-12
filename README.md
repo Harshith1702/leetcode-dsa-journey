@@ -87,4 +87,12 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0155-min-stack/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
