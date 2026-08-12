@@ -58,6 +58,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -78,4 +79,12 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
