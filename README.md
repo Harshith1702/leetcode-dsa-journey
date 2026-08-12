@@ -47,6 +47,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | ------- | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,4 +61,12 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 <!---LeetCode Topics End-->
