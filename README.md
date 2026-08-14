@@ -54,4 +54,16 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 <!---LeetCode Topics End-->
