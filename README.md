@@ -39,3 +39,19 @@ The focus is on understanding patterns, writing clean code, and improving time a
 > Quality and consistency matter more than problem count.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/Harshith1702/leetcode-dsa-journey)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0232-implement-queue-using-stacks/) | Easy |
+<!---LeetCode Topics End-->
