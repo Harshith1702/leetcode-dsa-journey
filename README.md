@@ -45,6 +45,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0232-implement-queue-using-stacks](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -69,9 +70,18 @@ The focus is on understanding patterns, writing clean code, and improving time a
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
