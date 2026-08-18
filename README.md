@@ -59,6 +59,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +72,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
