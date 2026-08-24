@@ -47,6 +47,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0232-implement-queue-using-stacks](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,15 +104,18 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0234-palindrome-linked-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
