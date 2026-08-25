@@ -62,6 +62,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | [1386-cinema-seat-allocation](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
