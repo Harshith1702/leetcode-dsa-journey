@@ -3,23 +3,21 @@ class Solution {
         String res = "";
         int minL = Integer.MAX_VALUE;
         int n = s.length();
-        for (int i = 0;i < n; i++) {
-            for (int j = i + 1;j <= n; j++) {
-                String ss = s.substring(i,j);
-                int cnt = 0;
-                for (int c = 0;c < ss.length(); c++) {
-                    if (ss.charAt(c) == '1')    cnt++;
+        int cO = 0, l = 0;//l - left
+        for (int i = 0;i < n; i++) { //i - rght
+            if (s.charAt(i) == '1')     cO++;
+            while (cO == k) {
+                String ss = s.substring(l, i + 1);
+                int len = ss.length();
+                if (len < minL) {
+                    minL = len;
+                    res = ss;
                 }
-                if (cnt == k) {
-                    int l = ss.length();
-                    if (l < minL) {
-                        minL = l;
-                        res = ss;
-                    }
-                    else if (l == minL && (res.equals("") || ss.compareTo(res) < 0)) {
-                        res = ss;
-                    }
+                else if (len == minL && (res.equals("") || ss.compareTo(res) < 0)) {
+                    res = ss;
                 }
+                if (s.charAt(l) == '1')   cO--;
+                l++;
             }
         }
         return res;
