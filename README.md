@@ -127,6 +127,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0492-construct-the-rectangle](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0492-construct-the-rectangle/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 <!---LeetCode Topics End-->
