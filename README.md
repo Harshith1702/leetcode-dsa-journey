@@ -59,6 +59,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -107,6 +108,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -122,6 +124,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Math
@@ -131,4 +134,8 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | [0507-perfect-number](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0507-perfect-number/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
