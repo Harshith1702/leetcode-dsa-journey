@@ -84,6 +84,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +139,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | [0507-perfect-number](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0507-perfect-number/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
