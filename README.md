@@ -46,6 +46,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0143-reorder-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0143-reorder-list/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Design
@@ -113,6 +114,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0141-linked-list-cycle/) | Easy |
+| [0143-reorder-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0148-sort-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0206-reverse-linked-list/) | Easy |
@@ -123,6 +125,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0143-reorder-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -131,6 +134,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0141-linked-list-cycle/) | Easy |
+| [0143-reorder-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0148-sort-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0876-middle-of-the-linked-list/) | Easy |
