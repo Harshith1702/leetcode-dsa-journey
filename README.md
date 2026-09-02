@@ -113,6 +113,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0141-linked-list-cycle/) | Easy |
+| [0148-sort-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0148-sort-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -130,6 +131,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0141-linked-list-cycle/) | Easy |
+| [0148-sort-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0148-sort-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Math
@@ -144,4 +146,16 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0141-linked-list-cycle/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0148-sort-list/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0148-sort-list/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
