@@ -142,6 +142,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0507-perfect-number](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0507-perfect-number/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
