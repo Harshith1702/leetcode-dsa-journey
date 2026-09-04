@@ -60,6 +60,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -68,6 +69,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0049-group-anagrams/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Sliding Window
@@ -78,6 +80,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0049-group-anagrams/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -161,6 +164,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0049-group-anagrams/) | Medium |
 | [0148-sort-list](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0148-sort-list/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
