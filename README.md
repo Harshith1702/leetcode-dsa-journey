@@ -151,6 +151,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | [0492-construct-the-rectangle](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0507-perfect-number](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/0507-perfect-number/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [1362-closest-divisors](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1362-closest-divisors/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -176,4 +177,8 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | ------- | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3904-smallest-stable-index-ii/) | Medium |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1362-closest-divisors](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1362-closest-divisors/) | Medium |
 <!---LeetCode Topics End-->
