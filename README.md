@@ -155,6 +155,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Floyd's Cycle Finding Algorithm
