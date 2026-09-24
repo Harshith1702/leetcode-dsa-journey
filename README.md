@@ -89,6 +89,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -158,6 +159,7 @@ The focus is on understanding patterns, writing clean code, and improving time a
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1551-minimum-operations-to-make-array-equal/) | Medium |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/1780-check-if-number-is-a-sum-of-powers-of-three/) | Medium |
 | [2579-count-total-number-of-colored-cells](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/2579-count-total-number-of-colored-cells/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Harshith1702/leetcode-dsa-journey/tree/main/3871-count-commas-in-range-ii/) | Medium |
